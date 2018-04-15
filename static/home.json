@@ -1,0 +1,48 @@
+{
+   "todos":[
+        {
+            "id":"1",
+            "img":"/static/img/home/s2a.jpg",
+            "name":"华为 畅享7 Plus",
+            "nametwo":"优惠200元|限量促销",
+            "Price":"2798"
+        },
+        {
+           "id":"2",
+           "img":"/static/img/home/s4a.jpg",
+           "nametwo":"6.43英寸大屏|0.1s快速解锁",
+           "name":"华为 nova 2S",
+           "Price":"3498"
+        },
+        {
+           "id":"3",
+           "img":"/static/img/home/s6a.jpg",
+           "name":"Galaxy C9Pro",
+           "nametwo":"前置2400万像素",
+           "Price":"2498"
+        },
+        {
+            "id":"4",
+            "img":"/static/img/home/s8a.jpg",
+            "name":"三星 Galaxy S8",
+            "nametwo":"后置双摄|免费镭射镌刻",
+            "Price":"3998"
+        }
+        ,
+        {
+            "id":"5",
+            "img":"/static/img/home/s11b.jpg",
+            "name":"小米5X",
+            "nametwo":"大屏美颜自拍",
+            "Price":"1098"
+        }
+        ,
+        {
+            "id":"6",
+            "img":"/static/img/home/s13b.jpg",
+            "name":"小米6",
+            "nametwo":"5.5英寸大屏|支持花呗分期",
+            "Price":"1298"
+        }
+   ]
+}
